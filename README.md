@@ -2,11 +2,11 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Basic portfolio microverse.
 
-![screenshot](./app_screenshot.png)
+![Screenshot 2022-01-07 at 21 38 16](https://user-images.githubusercontent.com/92875711/148591168-c77d2fdb-ab86-4d96-81ad-6e097ff665e6.png)
 
-Additional description about the project and its features.
+Additional description about the basic portfolio project and its features.
 
 ## Built With
 
@@ -27,27 +27,14 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
-👤 **Author1**
+👤 **Daisy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Berucan](https://github.com/Berucan)
+- Twitter: [@daisyberucan](https://twitter.com/home)
+- LinkedIn: [Daisy Berucan](https://www.linkedin.com/in/daisy-berucan-07949814b/)
 
 👤 **Author2**
 
