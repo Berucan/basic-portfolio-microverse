@@ -10,13 +10,8 @@ Additional description about the basic portfolio project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- CSS
+- HTML
 
 
 ## Getting Started
@@ -24,8 +19,18 @@ Additional description about the basic portfolio project and its features.
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
+##Prerequisites
+- A text editor (eg. VScode)
+- Node package
 
-To get a local copy up and running follow these simple example steps.
+
+##Run project test in your local environment.
+
+To get the copy of this project on your local machine, please go ahead and follow the steps below:
+- Open your terminal
+- clone the project from the source repository by running run: git clone https://github.com/Berucan/basic-portfolio-microverse.git
+- Open the use the live server extension for vscode or index.html file in the browser.
+
 
 
 ## Authors
