@@ -41,11 +41,6 @@ To get the copy of this project on your local machine, please go ahead and follo
 - Twitter: [@daisyberucan](https://twitter.com/home)
 - LinkedIn: [Daisy Berucan](https://www.linkedin.com/in/daisy-berucan-07949814b/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
