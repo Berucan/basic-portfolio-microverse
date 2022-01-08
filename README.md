@@ -2,21 +2,16 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Basic portfolio microverse.
 
-![screenshot](./app_screenshot.png)
+![Screenshot 2022-01-07 at 21 38 16](https://user-images.githubusercontent.com/92875711/148591168-c77d2fdb-ab86-4d96-81ad-6e097ff665e6.png)
 
-Additional description about the project and its features.
+Additional description about the basic portfolio project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- CSS
+- HTML
 
 
 ## Getting Started
@@ -24,36 +19,28 @@ Additional description about the project and its features.
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
+##Prerequisites
+- A text editor (eg. VScode)
+- Node package
 
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+##Run project test in your local environment.
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+To get the copy of this project on your local machine, please go ahead and follow the steps below:
+- Open your terminal
+- clone the project from the source repository by running run: git clone https://github.com/Berucan/basic-portfolio-microverse.git
+- Open the use the live server extension for vscode or index.html file in the browser.
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Daisy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Berucan](https://github.com/Berucan)
+- Twitter: [@daisyberucan](https://twitter.com/home)
+- LinkedIn: [Daisy Berucan](https://www.linkedin.com/in/daisy-berucan-07949814b/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
